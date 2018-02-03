@@ -1,0 +1,9 @@
+C:\Users\salat\OneDrive\Documentos\Programação\SQL\ProjetoExemploGisela\ImageCrypto\ImageCrypto\bin\Debug\ImageCrypto.exe.config
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\ImageCrypto\bin\Debug\ImageCrypto.exe.config
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\ImageCrypto\bin\Debug\ImageCrypto.exe
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\ImageCrypto\bin\Debug\ImageCrypto.pdb
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\ImageCrypto\bin\Debug\CustomFramework.Util.dll
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\ImageCrypto\bin\Debug\CustomFramework.Util.pdb
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\ImageCrypto\obj\Debug\ImageCrypto.csprojResolveAssemblyReference.cache
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\ImageCrypto\obj\Debug\ImageCrypto.exe
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\ImageCrypto\obj\Debug\ImageCrypto.pdb

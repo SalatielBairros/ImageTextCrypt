@@ -1,0 +1,5 @@
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\CustomFramework.Util\bin\Debug\CustomFramework.Util.dll
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\CustomFramework.Util\bin\Debug\CustomFramework.Util.pdb
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\CustomFramework.Util\obj\Debug\CustomFramework.Util.csprojResolveAssemblyReference.cache
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\CustomFramework.Util\obj\Debug\CustomFramework.Util.dll
+C:\Users\salat\OneDrive\Documentos\Programação\C#\ImageCrypto\CustomFramework.Util\obj\Debug\CustomFramework.Util.pdb
